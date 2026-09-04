@@ -1,0 +1,45 @@
+{
+  "documents": {
+    "title": "Document selection",
+    "search": "Search documents",
+    "dropHere": "Drag and drop documents here"
+  },
+  "installation": {
+    "title": "Element",
+    "search": "Search by label",
+    "substation": "Substation",
+    "circuit": "Circuit",
+    "supplier": "Supplier",
+    "expand": "Load tree"
+  },
+  "tree": {
+    "title": "Target elements selection",
+    "filterText": "Filter by text",
+    "filterType": "Filter by type",
+    "selectAll": "Select all",
+    "selectVisible": "Select filtered",
+    "clear": "Clear",
+    "empty": "Load an element first",
+    "selectedCount": "Selected elements"
+  },
+  "summary": {
+    "title": "Summary",
+    "documents": "Documents",
+    "installations": "Installations",
+    "suppliers": "Suppliers"
+  },
+  "connect": {
+    "title": "Connect",
+    "action": "Connect documents",
+    "disabled": "Select documents and installations"
+  },
+  "disconnect": {
+    "title": "Disconnect",
+    "selectDocument": "Select document",
+    "linkedInstallations": "Linked elements",
+    "action": "Disconnect selected",
+    "disabled": "Select elements to disconnect"
+  },
+  "autocompleteNoData": "No results found",
+  "autocompleteSearchByDescription": "Search by description"
+}

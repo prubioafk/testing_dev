@@ -1,0 +1,45 @@
+{
+  "documents": {
+    "title": "Dokumentauswahl",
+    "search": "Dokumente suchen",
+    "dropHere": "Dokumente hier ablegen"
+  },
+  "installation": {
+    "title": "Element",
+    "search": "Nach Label suchen",
+    "substation": "Umspannwerk",
+    "circuit": "Leitung",
+    "supplier": "Lieferant",
+    "expand": "Struktur laden"
+  },
+  "tree": {
+    "title": "Auswahl der Zielelemente",
+    "filterText": "Nach Text filtern",
+    "filterType": "Nach Typ filtern",
+    "selectAll": "Alle auswählen",
+    "selectVisible": "Gefilterte Elemente auswählen",
+    "clear": "Zurücksetzen",
+    "empty": "Bitte zuerst ein Element laden",
+    "selectedCount": "Ausgewählte Elemente"
+  },
+  "summary": {
+    "title": "Zusammenfassung",
+    "documents": "Dokumente",
+    "installations": "Anlagen",
+    "suppliers": "Lieferanten"
+  },
+  "connect": {
+    "title": "Verbinden",
+    "action": "Dokumente verbinden",
+    "disabled": "Dokumente und Anlagen auswählen"
+  },
+  "disconnect": {
+    "title": "Trennen",
+    "selectDocument": "Dokument auswählen",
+    "linkedInstallations": "Verknüpfte Elemente",
+    "action": "Ausgewählte trennen",
+    "disabled": "Elemente zum Trennen auswählen"
+  },
+  "autocompleteNoData": "Keine Ergebnisse gefunden",
+  "autocompleteSearchByDescription": "Nach Beschreibung suchen"
+}

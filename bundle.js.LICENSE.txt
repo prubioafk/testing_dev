@@ -1,0 +1,55 @@
+/*!
+  * shared v11.4.2
+  * (c) 2026 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+ * pinia v2.3.1
+ * (c) 2025 Eduardo San Martin Morote
+ * @license MIT
+ */
+
+/*! #__NO_SIDE_EFFECTS__ */
+
+/**
+ * WCAG 3.0 APCA perceptual contrast algorithm from https://github.com/Myndex/SAPC-APCA
+ * @licence https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document
+ * @see https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup
+ */
+
+/**
+* @vue/compiler-core v3.5.34
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/reactivity v3.5.34
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-core v3.5.34
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-dom v3.5.34
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/shared v3.5.34
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* vue v3.5.34
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/

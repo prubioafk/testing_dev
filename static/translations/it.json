@@ -1,0 +1,45 @@
+{
+  "documents": {
+    "title": "Selezione dei documenti",
+    "search": "Cerca documenti",
+    "dropHere": "Trascina e rilascia i documenti qui"
+  },
+  "installation": {
+    "title": "Elemento",
+    "search": "Cerca per label",
+    "substation": "Sottostazione",
+    "circuit": "Linea",
+    "supplier": "Fornitore",
+    "expand": "Carica struttura"
+  },
+  "tree": {
+    "title": "Selezione degli elementi di destinazione",
+    "filterText": "Filtra per testo",
+    "filterType": "Filtra per tipo",
+    "selectAll": "Seleziona tutto",
+    "selectVisible": "Seleziona filtrati",
+    "clear": "Cancella",
+    "empty": "Carica prima un elemento",
+    "selectedCount": "Elementi selezionati"
+  },
+  "summary": {
+    "title": "Riepilogo",
+    "documents": "Documenti",
+    "installations": "Installazioni",
+    "suppliers": "Fornitori"
+  },
+  "connect": {
+    "title": "Collega",
+    "action": "Collega documenti",
+    "disabled": "Seleziona documenti e installazioni"
+  },
+  "disconnect": {
+    "title": "Disconnetti",
+    "selectDocument": "Seleziona documento",
+    "linkedInstallations": "Elementi collegati",
+    "action": "Disconnetti selezionate",
+    "disabled": "Seleziona elementi da disconnettere"
+  },
+  "autocompleteNoData": "Nessun risultato trovato",
+  "autocompleteSearchByDescription": "Cerca per descrizione"
+}
